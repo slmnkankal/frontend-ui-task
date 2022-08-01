@@ -1,0 +1,22 @@
+.all-teams-container {
+  width: 1008px;
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.05), 0px 0px 30px rgba(0, 0, 0, 0.1);
+  /* border: solid 1px black; */
+ 
+}
+
+.all-teams-container-cards{
+  padding: 30.5px 34px 20px 27px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px 13px;
+}
+
+.all-teams-container-header {
+  font-family: "ProximaNova";
+  font-size: 18px;
+  line-height: 22px;
+  color: #343434;
+  text-align: center;
+}

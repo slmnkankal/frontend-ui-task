@@ -1,0 +1,75 @@
+.card-container {
+  width: 278px;
+  border-radius: 4px;
+  background: #ffffff;
+  border: 1px solid hsl(218, 17%, 91%);
+  padding: 16px 14px 21px 16px;
+}
+
+.card-logo-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-logo-description {
+  width: 100%;
+  font-family: "ProximaNova";
+  font-size: 14px;
+  line-height: 17px;
+  color: #565656;
+  text-align: justify;
+  margin-top: 16px;
+}
+
+.card-logo-title-name {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: flex-start;
+}
+
+.card-logo-title-name-text {
+  font-family: "ProximaNova";
+  font-size: 16px;
+  line-height: 19px;
+  height: 19px;
+  color: #444444;
+  margin-top: 0;
+}
+
+.card-logo-title-name-date {
+  font-family: "ProximaNova";
+  font-size: 13px;
+  line-height: 16px;
+  color: #565656;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  margin-top: -10px;
+}
+
+.card-logo-title-image {
+  width: 36px;
+  height: 36px;
+  margin-right: 9px;
+  border-radius: 3px;
+}
+
+.card-campaigns-leads {
+  display: flex;
+  justify-content: flex-start;
+  border-top: 1px solid #e4e7ec;
+  align-items: center;
+}
+
+.margin-right-6 {
+  margin-right: 6px;
+}
+
+.campaign-counts {
+  color: rgb(0, 0, 0, 0.3);
+}
+
+.leads-counts {
+  color: rgb(0, 0, 0, 0.3);
+}
+

@@ -1,0 +1,17 @@
+.navbar-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 212px;
+}
+
+.appBar-container {
+    background-color: #FFFFFF!important;
+    color: gray!important;
+    border-right: 1px solid rgb(0, 0, 0, 0.1);
+}
+
+.navbar-button {
+    border-left: rgb(0, 0, 0, 0.1);
+}

@@ -1,0 +1,54 @@
+.activity-container {
+  width: 100%;
+  margin-left: 14px;
+  margin-bottom: 400px;
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgb(0 0 0 / 5%), 0px 0px 30px rgb(0 0 0 / 10%);
+  padding: 0px 20px 20px 13px;
+}
+
+.activity-header {
+  font-family: "ProximaNova";
+  font-size: 18px;
+  line-height: 22px;
+  color: #343434;
+  text-align: left;
+}
+
+.activity-group {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.activity-group-image-text-container {
+  display: flex;
+}
+.activity-group-image {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  margin-right: 9px;
+}
+
+.activity-group-text {
+  font-family: "ProximaNova";
+  font-size: 14px;
+  line-height: 17px;
+  color: #444444;
+  text-align: justify;
+  margin-top: 4px;
+}
+
+.activity-group-text-span {
+  font-family: "ProximaNova";
+  font-size: 13px;
+  line-height: 16px;
+  color: #565656;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  text-align: justify;
+  margin-top: -10px;
+  margin-left: 45px;
+}
