@@ -3,7 +3,7 @@
 
 In the project directory, you can run:
 
-### `cd frontend-ui-test`
+### `cd frontend-ui-task`
 
 ### `yarn start`
 
